@@ -1,6 +1,6 @@
 kill @s
 
-playsound minecraft:entity.generic.explode master @a ~ ~ ~ 10 2
+playsound minecraft:entity.generic.explode master @a ~ ~ ~ 3 2
 
 particle minecraft:explosion ~ ~ ~ 0 0 0 0 1 force @a
 particle minecraft:smoke ~ ~ ~ 0 0 0 0.25 100 force @a
