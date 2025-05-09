@@ -12,7 +12,7 @@
     },
     "result": {
         "id": "minecraft:snowball",
-        "count": 1,
+        "count": 2,
         "components": {
             "minecraft:rarity": "common",
             "minecraft:item_model": "minecraft:player_head",
