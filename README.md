@@ -21,10 +21,6 @@ Give:
 /loot give @s loot dynamite:dynamite
 ```
 
-## 👾 Bugs/Issues
-
-Please report any problem/bug/issues in the [Discord Server](https://discord.gg/5UdcDa5xNC).
-
 ## 🪪 License
 
 [AGPL-3.0-or-later](https://github.com/lullaby6/dynamite-data-pack/blob/main/LICENSE)
