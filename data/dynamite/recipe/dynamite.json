@@ -19,10 +19,7 @@
             "minecraft:custom_data": {
                 "dynamite": true
             },
-            "minecraft:custom_name": {
-                "text": "Dynamite",
-                "italic": false
-            },
+            "minecraft:custom_name": "{\"text\": \"Dynamite\",\"italic\": false}",
             "minecraft:profile": {
                 "id": [
                     439187765,
